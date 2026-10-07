@@ -1055,35 +1055,35 @@ button {
 
 @font-face {
     font-family:"BookkMyungjo";
-    src:url("../fonts/BookkMyungjo_Light.ttf") format("truetype");
+    src:url("/ffxiv-tookku-card/fonts/BookkMyungjo_Light.ttf") format("truetype");
     font-weight:400;
     font-style:normal;
 }
 
 @font-face {
     font-family:"Daegu-Dongseong-ro";
-    src:url("../fonts/Daegu-Dongseong-ro-Regular.ttf") format("truetype");
+    src:url("/ffxiv-tookku-card/fonts/Daegu-Dongseong-ro-Regular.ttf") format("truetype");
     font-weight:400;
     font-style:normal;
 }
 
 @font-face {
     font-family:"leeseoyoon";
-    src:url("../fonts/leeseoyoon.ttf") format("truetype");
+    src:url("/ffxiv-tookku-card/fonts/leeseoyoon.ttf") format("truetype");
     font-weight:400;
     font-style:normal;
 }
 
 @font-face {
     font-family:"Mona12";
-    src:url("../fonts/Mona12.ttf") format("truetype");
+    src:url("/ffxiv-tookku-card/fonts/Mona12.ttf") format("truetype");
     font-weight:400;
     font-style:normal;
 }
 
 @font-face {
     font-family:"NotoSansKR";
-    src:url("../fonts/NotoSansKR-Light.ttf") format("truetype");
+    src:url("/ffxiv-tookku-card/fonts/NotoSansKR-Light.ttf") format("truetype");
     font-weight:400;
     font-style:normal;
 }
