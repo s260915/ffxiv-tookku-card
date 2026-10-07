@@ -1053,44 +1053,37 @@ button {
 .apply-all-btn:hover { background:#2868dc; }
 .apply-all-wrap p { margin:6px 0 0; color:#929aa4; font-size:11px; line-height:1.4; }
 
-/*@font-face {
-    font-family:"BookkMyungjo";
-    src:url("/fonts/BookkMyungjo_Bold.ttf") format("truetype");
-    font-weight:700;
-    font-style:normal;
-}*/
-
 @font-face {
     font-family:"BookkMyungjo";
-    src:url("/fonts/BookkMyungjo_Light.ttf") format("truetype");
+    src:url("../fonts/BookkMyungjo_Light.ttf") format("truetype");
     font-weight:400;
     font-style:normal;
 }
 
 @font-face {
     font-family:"Daegu-Dongseong-ro";
-    src:url("/fonts/Daegu-Dongseong-ro-Regular.ttf") format("truetype");
+    src:url("../fonts/Daegu-Dongseong-ro-Regular.ttf") format("truetype");
     font-weight:400;
     font-style:normal;
 }
 
 @font-face {
     font-family:"leeseoyoon";
-    src:url("/fonts/leeseoyoon.ttf") format("truetype");
+    src:url("../fonts/leeseoyoon.ttf") format("truetype");
     font-weight:400;
     font-style:normal;
 }
 
 @font-face {
     font-family:"Mona12";
-    src:url("/fonts/Mona12.ttf") format("truetype");
+    src:url("../fonts/Mona12.ttf") format("truetype");
     font-weight:400;
     font-style:normal;
 }
 
 @font-face {
     font-family:"NotoSansKR";
-    src:url("/fonts/NotoSansKR-Light.ttf") format("truetype");
+    src:url("../fonts/NotoSansKR-Light.ttf") format("truetype");
     font-weight:400;
     font-style:normal;
 }
